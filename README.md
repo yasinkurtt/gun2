@@ -7,4 +7,4 @@ BTK Akademi * Erzurum * Frontend Developer 2.gün
 # formlar
 
 konularını gördük
-![](Ekran Görüntüsü(2).png)
+![](Ekran Görüntüsü (2).png)
